@@ -1,0 +1,16 @@
+---
+version: 1
+service:
+  name: A Duck Service
+  lifecycle: 
+  tier: 
+  product: 
+  owner: 
+  language: 
+  framework: 
+  description: 
+  aliases: 
+  tags: 
+  repositories: 
+  tools: 
+  dependencies: 
